@@ -3,11 +3,23 @@
 ---
 
 ## Project Purpose
-This project aims to give an sample of automation test framework that uses Selenium, Cucumber and TestNG with Java as the programming language.
+This project aims to give a sample of automation test framework that uses Selenium, Cucumber and TestNG with Java as the programming language.
+
+##Automated Problem
+1. Navigate to https://shop.canadadrives.ca/cars/bc
+2. Select Ontario Province
+3. Filter RAM 1500 vehicles using Make/Model filter
+4. Sort by Price Low to High
+5. Favorite 3 RAM 1500 vehicles
+6. Pick an available RAM 1500 vehicle
+7. Click on Get Started
+8. In Calculate delivery, Enter Toronto Address
+9. Select 48 Months warranty
+
 
 ## Tools and Libraries
 This project using 3 main tools, Selenium, Cucumber,TestNG.
-On the other hand, I using some of the tools that support this great framework such as Maven.
+On the other hand, I am using some tools that support this great framework such as Maven.
 The complete list of tools, you can see in the `pom.xml` file.
 
 ## Requirements
