@@ -29,7 +29,8 @@ $ mvn test -Dcucumber.options="--tags @CarTest"
 
 ## Test Results
 * Test report automatically generated on `target` folder after finished the test execution
-* See test report from `target/cucumber-reports/advanced-reports/cucumber-html-reports/overview-features.html* You can also share your Cucumber Report with another person at https://reports.cucumber.io, just go to `src/test/resources/cucumber.properties` then change the value to be `true`
+* See test report from `target/cucumber-reports/advanced-reports/cucumber-html-reports/overview-features.html
+* You can also share your Cucumber Report with another person at https://reports.cucumber.io, just go to `src/test/resources/cucumber.properties` then change the value to be `true`
 ```properties
 cucumber.publish.enabled=true
 ```
