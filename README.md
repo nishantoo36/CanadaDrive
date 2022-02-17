@@ -5,7 +5,7 @@
 ## Project Purpose
 This project aims to give a sample of automation test framework that uses Selenium, Cucumber and TestNG with Java as the programming language.
 
-##Automated Problem
+## Automated Problem
 1. Navigate to https://shop.canadadrives.ca/cars/bc
 2. Select Ontario Province
 3. Filter RAM 1500 vehicles using Make/Model filter
